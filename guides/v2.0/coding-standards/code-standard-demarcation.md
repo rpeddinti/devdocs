@@ -31,7 +31,7 @@ redirect_from: /guides/v1.0/coding-standards/code-standard-demarcation.html
    <p> ... </p>
    <p> ... </p>
 </section>
-<a href="#some-id">Scroll to text</a></a>
+<a href="#some-id">Scroll to text</a>
 {% endhighlight %}
 <p><b>Unacceptable PHTML file</b></p>
 {% highlight html %}
